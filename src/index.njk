@@ -1,15 +1,27 @@
 ---
-title: Home
+title: Welcome! 
 layout: layouts/base.njk
 ---
+<style>
+  .image-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+  }
 
-<div class="space-y-8">
+  .art-image {
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    margin: 8px;
+  }
+</style>
 
-  <div>
-    <p>This is the project's home page. There is a little styling for demonstration purposes only.</p>
-    <p>The navigation might as well be a sidebar, or a floating menu. This template provides the structure, make it yours ✌️</p>
-  </div>
-
-
-  <a href="https://github.com/tomreinert/minimal-11ty-tailwind-starter" class="inline-block uppercase rounded bg-blue-600 hover:bg-blue-700 px-4 py-2 text-white text-sm">Download on github</a>
+<p>Here is a curated AI-generated art gallery that I hope you enjoy 😊:</p>
+<div class="image-wrapper">
+  <img class="art-image" src="/img/AI_PIC1.PNG" alt="Flurry of innovation">
+  <img class="art-image" src="/img/AI_PIC2.PNG" alt="Wonderful world of technology">
+</div>
+<div class="image-wrapper">
+<img class="art-image" src="/img/AI_PIC3.PNG" alt="Cowboy robot surfing a cyber wave">
+<img class="art-image" src="/img/AI_PIC4.PNG" alt="Cowboy robot coding his horse">
 </div>

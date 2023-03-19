@@ -1,20 +1,16 @@
 {
     "items": [
         {
-            "name": "test@example.com",
-            "link": "mailto:test@example.com"
-        },
-        {
-            "name": "Twitter",
-            "link": "https://twitter.com/…"
+            "name": "jreyrao72@gmail.com",
+            "link": "mailto:jreyrao72@gmail.com"
         },
         {
             "name": "GitHub",
-            "link": "https://github.com/…"
+            "link": "https://github.com/Rowataro"
         },
         {
-            "name": "CodePen",
-            "link": "https://codepen.io/…"
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/jon-reyrao-b48153265/"
         }
-    ]
+    ]  
 }
