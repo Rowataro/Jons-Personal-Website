@@ -1,0 +1,12 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "src\\pages",
+            "group": "Default"
+        },
+        {
+            "filePath": "src\\index.njk",
+            "group": "Default"
+        }
+    ]
+}
