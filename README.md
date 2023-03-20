@@ -1,5 +1,5 @@
 # Website Link
-https://jonreyrao.netlify.app/work/
+https://jonreyrao.netlify.app
 
 # Minimal 11ty Starter
  
