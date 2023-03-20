@@ -28,15 +28,15 @@ npm install
 #### 4. Work locally
 Watches for changes and serves locally on http://localhost:8080
 ```
-For HTML + CSS:  npm run serve:webpack  
-For just HTML:   npm run serve
+For CSS compilation:  npm run serve:webpack  
+For HTML compilation:   npm run serve
 ```
 
 #### 5. Create a production build
 
 ```
-For HTML + CSS: npm run serve:webpack   
-For just HTML: npm run build  
+For CSS compilation: npm run serve:webpack   
+For HTML compilation: npm run build  
 ```
 
 #### 6. Host a website
